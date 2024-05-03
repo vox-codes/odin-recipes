@@ -1,0 +1,35 @@
+img {
+    height: auto;
+    width: 340px;
+}
+
+* {
+    color: navy;
+}
+
+body {
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ol li {
+    color: darkgreen;
+}
+
+ul li {
+    color: brown;
+}
+
